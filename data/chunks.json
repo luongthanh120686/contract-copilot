@@ -1,0 +1,147 @@
+[
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 1",
+    "noi_dung": "Điều 1. Nội dung dịch vụ\nBên B thiết kế và phát triển cho Bên A một ứng dụng bán hàng trên nền tảng web và di động, bao gồm các hạng mục nêu tại Phụ lục A (phạm vi công việc). Mọi yêu cầu ngoài Phụ lục A được xem là phát sinh và báo giá riêng."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 2",
+    "noi_dung": "Điều 2. Thời gian thực hiện\nTổng thời gian thực hiện là 4 tháng kể từ ngày hợp đồng có hiệu lực và Bên A bàn giao đầy đủ tài liệu đầu vào. Tiến độ chia thành 3 giai đoạn theo Phụ lục B."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 3",
+    "noi_dung": "Điều 3. Giá trị hợp đồng và thanh toán\nTổng giá trị hợp đồng là 480.000.000 đồng (bốn trăm tám mươi triệu đồng), chưa bao gồm thuế GTGT. Bên A thanh toán 100% giá trị hợp đồng trong vòng 30 ngày sau khi nghiệm thu toàn bộ; việc nghiệm thu được xem là hoàn tất khi Bên A ký biên bản nghiệm thu, và Bên A có toàn quyền quyết định thời điểm tổ chức nghiệm thu."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 4",
+    "noi_dung": "Điều 4. Phạt vi phạm tiến độ\nNếu Bên B chậm tiến độ bàn giao, Bên B chịu phạt 2% giá trị hợp đồng cho mỗi tuần chậm, tối đa 20% giá trị hợp đồng. Nếu Bên A chậm thanh toán, Bên A chịu phạt 0,01% giá trị chậm trả cho mỗi tuần chậm."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 5",
+    "noi_dung": "Điều 5. Nghĩa vụ của Bên A\nBên A cung cấp tài liệu, dữ liệu đầu vào và cử đầu mối phối hợp trả lời Bên B trong vòng 5 ngày làm việc cho mỗi yêu cầu. Bên A thanh toán đúng hạn theo Điều 3."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 6",
+    "noi_dung": "Điều 6. Nghĩa vụ của Bên B\nBên B thực hiện đúng phạm vi, đúng tiến độ, bảo đảm chất lượng theo tiêu chuẩn tại Phụ lục A. Bên B bảo hành sản phẩm 6 tháng kể từ ngày nghiệm thu, sửa lỗi phát sinh miễn phí trong phạm vi đã bàn giao."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 7",
+    "noi_dung": "Điều 7. Quyền sở hữu trí tuệ\nToàn bộ mã nguồn, thiết kế và tài liệu do Bên B tạo ra trong dự án thuộc quyền sở hữu của Bên A sau khi Bên A hoàn tất nghĩa vụ thanh toán. Bên B không được sử dụng lại bất kỳ thành phần nào của sản phẩm cho khách hàng khác, kể cả các thư viện và công cụ do Bên B tự phát triển trước dự án này."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 8",
+    "noi_dung": "Điều 8. Bảo mật\nHai bên cam kết bảo mật thông tin của nhau trong thời gian thực hiện hợp đồng và 24 tháng sau khi kết thúc. Bên vi phạm bồi thường thiệt hại thực tế phát sinh."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 9",
+    "noi_dung": "Điều 9. Tạm ngừng và chấm dứt\nBên A có quyền tạm ngừng hoặc chấm dứt hợp đồng bất kỳ lúc nào bằng thông báo trước 7 ngày; trong trường hợp đó, Bên A chỉ thanh toán cho khối lượng công việc đã được nghiệm thu tính đến thời điểm chấm dứt. Bên B không có quyền đơn phương chấm dứt hợp đồng trừ khi Bên A chậm thanh toán quá 90 ngày."
+  },
+  {
+    "file": "hop-dong-dich-vu.txt",
+    "dieu": "Điều 10",
+    "noi_dung": "Điều 10. Giải quyết tranh chấp\nTranh chấp được giải quyết bằng thương lượng; nếu không thành thì đưa ra Trung tâm Trọng tài Quốc tế Việt Nam (VIAC), phán quyết trọng tài là chung thẩm. Chi phí trọng tài do bên thua chịu."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 1",
+    "noi_dung": "Điều 1. Công việc và địa điểm làm việc\nBên B làm việc tại vị trí Nhân viên kinh doanh, thuộc Phòng Kinh doanh của Bên A. Địa điểm làm việc chính: văn phòng công ty tại Quận 1, TP.HCM. Bên A có quyền điều chuyển Bên B đến bất kỳ chi nhánh nào trên toàn quốc mà không cần sự đồng ý của Bên B."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 2",
+    "noi_dung": "Điều 2. Thời hạn hợp đồng\nHợp đồng có thời hạn 12 tháng, từ ngày 01/09/2026 đến hết ngày 31/08/2027, trong đó 2 tháng đầu là thời gian thử việc."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 3",
+    "noi_dung": "Điều 3. Tiền lương và phụ cấp\nMức lương chính thức: 15.000.000 đồng/tháng. Lương thử việc bằng 70% lương chính thức. Lương được trả vào ngày 10 của tháng kế tiếp. Phụ cấp ăn trưa 800.000 đồng/tháng, phụ cấp xăng xe 500.000 đồng/tháng."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 4",
+    "noi_dung": "Điều 4. Thời giờ làm việc và làm thêm giờ\nThời giờ làm việc: 8 giờ/ngày, từ thứ Hai đến thứ Bảy. Khi công ty có yêu cầu, Bên B có trách nhiệm làm thêm giờ để hoàn thành công việc; tiền lương làm thêm giờ đã được tính gộp trong mức lương tháng nêu tại Điều 3."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 5",
+    "noi_dung": "Điều 5. Nghĩa vụ của Bên B\nBên B hoàn thành công việc theo mô tả công việc và chỉ tiêu doanh số được giao từng quý. Bên B cam kết làm việc cho Bên A tối thiểu 24 tháng kể từ ngày ký; nếu nghỉ việc trước thời hạn cam kết này vì bất kỳ lý do gì, Bên B phải bồi thường cho Bên A số tiền tương đương 2 tháng lương."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 6",
+    "noi_dung": "Điều 6. Bảo mật thông tin và cấm cạnh tranh\nBên B không được tiết lộ thông tin kinh doanh, danh sách khách hàng, chính sách giá của Bên A trong thời gian làm việc và 36 tháng sau khi nghỉ việc. Trong vòng 36 tháng sau khi nghỉ việc, Bên B không được làm việc cho bất kỳ doanh nghiệp nào kinh doanh cùng ngành nghề với Bên A trên phạm vi toàn quốc."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 7",
+    "noi_dung": "Điều 7. Xử lý vi phạm và trừ lương\nNếu Bên B đi trễ quá 3 lần trong tháng, không đạt chỉ tiêu doanh số, hoặc vi phạm nội quy, Bên A có quyền trừ trực tiếp vào lương tháng của Bên B theo bảng chế tài do Bên A ban hành từng thời kỳ."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 8",
+    "noi_dung": "Điều 8. Chấm dứt hợp đồng\nMỗi bên có quyền chấm dứt hợp đồng theo quy định của Bộ luật Lao động. Riêng Bên B khi muốn nghỉ việc phải báo trước tối thiểu 60 ngày bằng văn bản, kể cả trong thời gian thử việc."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 9",
+    "noi_dung": "Điều 9. Bảo hiểm và phúc lợi\nBên A đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho Bên B theo quy định pháp luật, bắt đầu từ khi kết thúc thời gian thử việc. Bên B được nghỉ phép năm 12 ngày sau khi làm đủ 12 tháng."
+  },
+  {
+    "file": "hop-dong-lao-dong.txt",
+    "dieu": "Điều 10",
+    "noi_dung": "Điều 10. Giải quyết tranh chấp\nTranh chấp phát sinh được ưu tiên giải quyết qua thương lượng, hòa giải tại công ty. Nếu không thành, các bên đưa vụ việc ra cơ quan có thẩm quyền theo quy định pháp luật lao động."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 1",
+    "noi_dung": "Điều 1. Đối tượng của hợp đồng\nBên A đồng ý cho Bên B thuê căn nhà số 25 đường Hoa Sữa, Quận 7, TP.HCM, diện tích sử dụng 60m2, gồm 2 phòng ngủ, 1 phòng khách, 1 bếp và 1 nhà vệ sinh. Nhà được bàn giao kèm theo các thiết bị liệt kê tại phụ lục 1."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 2",
+    "noi_dung": "Điều 2. Thời hạn thuê\nThời hạn thuê là 24 tháng, kể từ ngày 01/08/2026 đến hết ngày 31/07/2028. Khi hết hạn, nếu Bên B muốn tiếp tục thuê thì phải báo trước 30 ngày và hai bên ký phụ lục gia hạn. Nếu Bên B không thông báo chấm dứt trước 30 ngày khi hết hạn, hợp đồng tự động gia hạn thêm 12 tháng với giá thuê do Bên A quyết định tại thời điểm gia hạn."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 3",
+    "noi_dung": "Điều 3. Giá thuê và phương thức thanh toán\nGiá thuê là 12.000.000 đồng/tháng (mười hai triệu đồng), chưa bao gồm điện, nước, internet và phí quản lý. Bên B thanh toán tiền thuê 3 tháng một lần, vào ngày 05 của tháng đầu kỳ, bằng chuyển khoản. Bên A có quyền điều chỉnh giá thuê bất kỳ lúc nào trong thời hạn hợp đồng với điều kiện thông báo trước 15 ngày."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 4",
+    "noi_dung": "Điều 4. Tiền đặt cọc\nBên B đặt cọc cho Bên A số tiền 36.000.000 đồng (tương đương 3 tháng tiền thuê) ngay khi ký hợp đồng. Tiền cọc được hoàn trả trong vòng 30 ngày sau khi hợp đồng chấm dứt, sau khi trừ các khoản bồi thường hư hỏng (nếu có). Nếu Bên B chấm dứt hợp đồng trước hạn vì bất kỳ lý do gì, Bên B mất toàn bộ tiền đặt cọc."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 5",
+    "noi_dung": "Điều 5. Quyền và nghĩa vụ của Bên A\nBên A bàn giao nhà đúng hiện trạng đã thỏa thuận, bảo đảm quyền sử dụng ổn định của Bên B. Bên A chịu trách nhiệm sửa chữa các hư hỏng về kết cấu nhà (thấm, nứt, hệ thống điện nước âm tường). Bên A có quyền vào kiểm tra nhà bất kỳ lúc nào mà không cần báo trước cho Bên B."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 6",
+    "noi_dung": "Điều 6. Quyền và nghĩa vụ của Bên B\nBên B sử dụng nhà đúng mục đích để ở, không được cho thuê lại dưới mọi hình thức. Bên B tự chịu chi phí sửa chữa các hư hỏng nhỏ do quá trình sử dụng (bóng đèn, vòi nước, khóa cửa). Bên B thanh toán đầy đủ, đúng hạn các chi phí điện, nước, internet phát sinh."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 7",
+    "noi_dung": "Điều 7. Chấm dứt hợp đồng trước thời hạn\nBên A có quyền đơn phương chấm dứt hợp đồng và yêu cầu Bên B bàn giao nhà trong vòng 15 ngày nếu Bên B chậm thanh toán tiền thuê quá 10 ngày, hoặc sử dụng nhà sai mục đích. Trường hợp Bên A muốn lấy lại nhà vì lý do cá nhân, Bên A chỉ cần thông báo trước 30 ngày và không phải bồi thường bất kỳ khoản nào cho Bên B."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 8",
+    "noi_dung": "Điều 8. Phạt vi phạm\nNếu Bên B chậm thanh toán tiền thuê, Bên B chịu phạt 0,5%/ngày tính trên số tiền chậm trả. Nếu Bên A chậm bàn giao nhà hoặc vi phạm nghĩa vụ sửa chữa, hai bên tự thương lượng giải quyết."
+  },
+  {
+    "file": "hop-dong-thue-nha.txt",
+    "dieu": "Điều 9",
+    "noi_dung": "Điều 9. Giải quyết tranh chấp\nMọi tranh chấp phát sinh từ hợp đồng này trước hết được giải quyết bằng thương lượng. Nếu không thương lượng được, tranh chấp được đưa ra Tòa án nhân dân có thẩm quyền tại nơi có căn nhà cho thuê."
+  }
+]
