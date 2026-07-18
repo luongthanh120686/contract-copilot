@@ -1,0 +1,35 @@
+HỢP ĐỒNG DỊCH VỤ PHÁT TRIỂN PHẦN MỀM
+(Hợp đồng mẫu hư cấu — chỉ dùng cho mục đích học tập)
+
+Bên thuê dịch vụ (Bên A): Công ty Cổ phần Bán lẻ Hoa Việt
+Bên cung cấp dịch vụ (Bên B): Công ty TNHH Giải pháp Số Minh Long
+
+Điều 1. Nội dung dịch vụ
+Bên B thiết kế và phát triển cho Bên A một ứng dụng bán hàng trên nền tảng web và di động, bao gồm các hạng mục nêu tại Phụ lục A (phạm vi công việc). Mọi yêu cầu ngoài Phụ lục A được xem là phát sinh và báo giá riêng.
+
+Điều 2. Thời gian thực hiện
+Tổng thời gian thực hiện là 4 tháng kể từ ngày hợp đồng có hiệu lực và Bên A bàn giao đầy đủ tài liệu đầu vào. Tiến độ chia thành 3 giai đoạn theo Phụ lục B.
+
+Điều 3. Giá trị hợp đồng và thanh toán
+Tổng giá trị hợp đồng là 480.000.000 đồng (bốn trăm tám mươi triệu đồng), chưa bao gồm thuế GTGT. Bên A thanh toán 100% giá trị hợp đồng trong vòng 30 ngày sau khi nghiệm thu toàn bộ; việc nghiệm thu được xem là hoàn tất khi Bên A ký biên bản nghiệm thu, và Bên A có toàn quyền quyết định thời điểm tổ chức nghiệm thu.
+
+Điều 4. Phạt vi phạm tiến độ
+Nếu Bên B chậm tiến độ bàn giao, Bên B chịu phạt 2% giá trị hợp đồng cho mỗi tuần chậm, tối đa 20% giá trị hợp đồng. Nếu Bên A chậm thanh toán, Bên A chịu phạt 0,01% giá trị chậm trả cho mỗi tuần chậm.
+
+Điều 5. Nghĩa vụ của Bên A
+Bên A cung cấp tài liệu, dữ liệu đầu vào và cử đầu mối phối hợp trả lời Bên B trong vòng 5 ngày làm việc cho mỗi yêu cầu. Bên A thanh toán đúng hạn theo Điều 3.
+
+Điều 6. Nghĩa vụ của Bên B
+Bên B thực hiện đúng phạm vi, đúng tiến độ, bảo đảm chất lượng theo tiêu chuẩn tại Phụ lục A. Bên B bảo hành sản phẩm 6 tháng kể từ ngày nghiệm thu, sửa lỗi phát sinh miễn phí trong phạm vi đã bàn giao.
+
+Điều 7. Quyền sở hữu trí tuệ
+Toàn bộ mã nguồn, thiết kế và tài liệu do Bên B tạo ra trong dự án thuộc quyền sở hữu của Bên A sau khi Bên A hoàn tất nghĩa vụ thanh toán. Bên B không được sử dụng lại bất kỳ thành phần nào của sản phẩm cho khách hàng khác, kể cả các thư viện và công cụ do Bên B tự phát triển trước dự án này.
+
+Điều 8. Bảo mật
+Hai bên cam kết bảo mật thông tin của nhau trong thời gian thực hiện hợp đồng và 24 tháng sau khi kết thúc. Bên vi phạm bồi thường thiệt hại thực tế phát sinh.
+
+Điều 9. Tạm ngừng và chấm dứt
+Bên A có quyền tạm ngừng hoặc chấm dứt hợp đồng bất kỳ lúc nào bằng thông báo trước 7 ngày; trong trường hợp đó, Bên A chỉ thanh toán cho khối lượng công việc đã được nghiệm thu tính đến thời điểm chấm dứt. Bên B không có quyền đơn phương chấm dứt hợp đồng trừ khi Bên A chậm thanh toán quá 90 ngày.
+
+Điều 10. Giải quyết tranh chấp
+Tranh chấp được giải quyết bằng thương lượng; nếu không thành thì đưa ra Trung tâm Trọng tài Quốc tế Việt Nam (VIAC), phán quyết trọng tài là chung thẩm. Chi phí trọng tài do bên thua chịu.
