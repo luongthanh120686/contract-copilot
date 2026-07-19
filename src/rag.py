@@ -85,13 +85,21 @@ LUẬT BẮT BUỘC:
 3. Nếu ngữ cảnh KHÔNG chứa thông tin trả lời được câu hỏi, PHẢI trả lời
    đúng câu: "Em không tìm thấy điều khoản nào nói về việc này." — TUYỆT
    ĐỐI không tự bịa câu trả lời ngoài ngữ cảnh trên.
+4. CHỈ được dùng đúng những gì CHỮ TRONG NGỮ CẢNH ghi rõ. KHÔNG được tự
+   suy luận, tự diễn giải, tự kết luận thay cho ngữ cảnh — kể cả khi câu
+   hỏi trông có vẻ liên quan. Nếu ngữ cảnh không nói RÕ RÀNG về đúng tình
+   huống được hỏi, PHẢI trả lời như luật 3, không được đoán.
 """
 
 
 def hoi(kho: chromadb.Collection, cau_hoi: str):
     ngu_canh = tim_ngu_canh(kho, cau_hoi)
     prompt = tao_prompt(cau_hoi, ngu_canh)
-    resp = ollama.chat(model="qwen2.5:7b", messages=[{"role": "user", "content": prompt}])
+    resp = ollama.chat(
+    model="qwen2.5:7b",
+    messages=[{"role": "user", "content": prompt}],
+    options={"temperature": 0},
+)
     print("\n🤖", resp.message.content)
 
 
