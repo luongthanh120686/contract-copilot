@@ -1,3 +1,13 @@
+# ============================================================
+# CHẶNG 3 — RAG hoàn chỉnh: Retrieval (Chroma, chặng 2) + Augmented
+#           (chèn ngữ cảnh vào prompt) + Generation (Qwen, chặng 0)
+# 📖 Ôn lại: Bài 54-56 (pipeline RAG đầy đủ) + Bài 57-58 (prompt
+#            template, citation) + Bài 47 (gọi LLM)
+# Khác chặng 2: chặng 2 chỉ TÌM điều khoản. Chặng 3 dùng điều khoản
+# tìm được làm "tài liệu tham khảo" bắt Qwen ĐỌC rồi mới trả lời —
+# và PHẢI ghi rõ trả lời lấy từ Điều mấy, không được bịa.
+# Chạy: python3 src/rag.py
+# ============================================================
 import sys
 from pathlib import Path
 
@@ -90,6 +100,19 @@ LUẬT BẮT BUỘC:
    hỏi trông có vẻ liên quan. Nếu ngữ cảnh không nói RÕ RÀNG về đúng tình
    huống được hỏi, PHẢI trả lời như luật 3, không được đoán.
 """
+
+
+def hoi_lay_chuoi(kho: chromadb.Collection, cau_hoi: str) -> str:
+    """Giống hoi() nhưng TRẢ VỀ chuỗi thay vì in ra — để eval chấm điểm
+    được (chặng 5). Tách ra thay vì copy code: sửa 1 chỗ, cả 2 nơi hưởng."""
+    ngu_canh = tim_ngu_canh(kho, cau_hoi)
+    prompt = tao_prompt(cau_hoi, ngu_canh)
+    resp = ollama.chat(
+        model="qwen2.5:7b",
+        messages=[{"role": "user", "content": prompt}],
+        options={"temperature": 0},
+    )
+    return resp.message.content
 
 
 def hoi(kho: chromadb.Collection, cau_hoi: str):

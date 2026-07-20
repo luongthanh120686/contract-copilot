@@ -1,0 +1,65 @@
+[
+  {
+    "cau_hoi": "tiền cọc có bị mất không?",
+    "nguon_dung": ["hop-dong-thue-nha.txt · Điều 4"],
+    "tu_khoa_bat_buoc": ["mất", "cọc"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 4: chấm dứt trước hạn = mất toàn bộ cọc"
+  },
+  {
+    "cau_hoi": "chậm trả tiền thuê bị phạt bao nhiêu phần trăm mỗi ngày?",
+    "nguon_dung": ["hop-dong-thue-nha.txt · Điều 8"],
+    "tu_khoa_bat_buoc": ["0,5", "ngày"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 8: 0,5%/ngày"
+  },
+  {
+    "cau_hoi": "nghỉ việc trước thời hạn cam kết phải bồi thường bao nhiêu?",
+    "nguon_dung": ["hop-dong-lao-dong.txt · Điều 5"],
+    "tu_khoa_bat_buoc": ["2 tháng", "lương"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 5: bồi thường 2 tháng lương"
+  },
+  {
+    "cau_hoi": "ai giữ bản quyền phần mềm sau khi bàn giao?",
+    "nguon_dung": ["hop-dong-dich-vu.txt · Điều 7"],
+    "tu_khoa_bat_buoc": ["Bên A"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 7: toàn bộ mã nguồn thuộc Bên A"
+  },
+  {
+    "cau_hoi": "chủ nhà có được tự ý vào nhà không báo trước không?",
+    "nguon_dung": ["hop-dong-thue-nha.txt · Điều 5"],
+    "tu_khoa_bat_buoc": ["không cần báo trước"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 5: Bên A vào kiểm tra bất kỳ lúc nào, không cần báo trước"
+  },
+  {
+    "cau_hoi": "hợp đồng có tự động gia hạn không?",
+    "nguon_dung": ["hop-dong-thue-nha.txt · Điều 2"],
+    "tu_khoa_bat_buoc": ["gia hạn"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 2: không báo trước 30 ngày → tự động gia hạn 12 tháng"
+  },
+  {
+    "cau_hoi": "giá xăng hôm nay bao nhiêu tiền một lít?",
+    "nguon_dung": [],
+    "tu_khoa_bat_buoc": [],
+    "phai_tu_choi": true,
+    "ghi_chu": "BẪY: ngoài phạm vi hoàn toàn — phải từ chối"
+  },
+  {
+    "cau_hoi": "tôi được nghỉ phép năm bao nhiêu ngày?",
+    "nguon_dung": ["hop-dong-lao-dong.txt · Điều 9"],
+    "tu_khoa_bat_buoc": ["12 ngày"],
+    "phai_tu_choi": false,
+    "ghi_chu": "Điều 9: nghỉ phép năm 12 ngày sau khi làm đủ 12 tháng"
+  },
+  {
+    "cau_hoi": "thưởng Tết được mấy tháng lương?",
+    "nguon_dung": [],
+    "tu_khoa_bat_buoc": [],
+    "phai_tu_choi": true,
+    "ghi_chu": "BẪY KHÓ: nghe RẤT giống phúc lợi lao động (Điều 3 có phụ cấp, Điều 9 có bảo hiểm/nghỉ phép) nhưng đã quét toàn bộ 29 chunk — KHÔNG hợp đồng nào nhắc thưởng/Tết. Model dễ bịa dựa vào Điều 3."
+  }
+]
