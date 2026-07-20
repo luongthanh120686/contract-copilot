@@ -1,0 +1,45 @@
+{
+  "_ghi_chu": "Nhãn LOẠI điều khoản do NGƯỜI gán tay (chặng 5B). 29 điều khoản / 7 loại. Đây là 'đáp án' để chấm cả 2 cách phân loại: ML cổ điển và LLM.",
+  "_cac_loai": {
+    "thanh_toan": "tiền: giá trị, lương, tiền thuê, đặt cọc, phương thức trả",
+    "phat_vi_pham": "chế tài khi vi phạm: phạt %, trừ lương, bồi thường",
+    "thoi_han": "thời hạn hợp đồng, thời gian thực hiện, gia hạn",
+    "cham_dut": "chấm dứt / tạm ngừng hợp đồng trước hạn",
+    "bao_mat_shtt": "bảo mật thông tin, sở hữu trí tuệ, cấm cạnh tranh",
+    "tranh_chap": "giải quyết tranh chấp, thương lượng, toà án",
+    "nghia_vu": "quyền & nghĩa vụ các bên, nội dung công việc, phúc lợi"
+  },
+  "nhan": {
+    "hop-dong-dich-vu.txt · Điều 1": "nghia_vu",
+    "hop-dong-dich-vu.txt · Điều 2": "thoi_han",
+    "hop-dong-dich-vu.txt · Điều 3": "thanh_toan",
+    "hop-dong-dich-vu.txt · Điều 4": "phat_vi_pham",
+    "hop-dong-dich-vu.txt · Điều 5": "nghia_vu",
+    "hop-dong-dich-vu.txt · Điều 6": "nghia_vu",
+    "hop-dong-dich-vu.txt · Điều 7": "bao_mat_shtt",
+    "hop-dong-dich-vu.txt · Điều 8": "bao_mat_shtt",
+    "hop-dong-dich-vu.txt · Điều 9": "cham_dut",
+    "hop-dong-dich-vu.txt · Điều 10": "tranh_chap",
+
+    "hop-dong-lao-dong.txt · Điều 1": "nghia_vu",
+    "hop-dong-lao-dong.txt · Điều 2": "thoi_han",
+    "hop-dong-lao-dong.txt · Điều 3": "thanh_toan",
+    "hop-dong-lao-dong.txt · Điều 4": "nghia_vu",
+    "hop-dong-lao-dong.txt · Điều 5": "nghia_vu",
+    "hop-dong-lao-dong.txt · Điều 6": "bao_mat_shtt",
+    "hop-dong-lao-dong.txt · Điều 7": "phat_vi_pham",
+    "hop-dong-lao-dong.txt · Điều 8": "cham_dut",
+    "hop-dong-lao-dong.txt · Điều 9": "nghia_vu",
+    "hop-dong-lao-dong.txt · Điều 10": "tranh_chap",
+
+    "hop-dong-thue-nha.txt · Điều 1": "nghia_vu",
+    "hop-dong-thue-nha.txt · Điều 2": "thoi_han",
+    "hop-dong-thue-nha.txt · Điều 3": "thanh_toan",
+    "hop-dong-thue-nha.txt · Điều 4": "thanh_toan",
+    "hop-dong-thue-nha.txt · Điều 5": "nghia_vu",
+    "hop-dong-thue-nha.txt · Điều 6": "nghia_vu",
+    "hop-dong-thue-nha.txt · Điều 7": "cham_dut",
+    "hop-dong-thue-nha.txt · Điều 8": "phat_vi_pham",
+    "hop-dong-thue-nha.txt · Điều 9": "tranh_chap"
+  }
+}
