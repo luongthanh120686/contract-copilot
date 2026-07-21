@@ -41,15 +41,12 @@ def cham_retrieval(kho, cau: dict, k: int = 3) -> bool | None:
     lay_duoc = {f"{d['file']} · {d['dieu']}" for d in ngu_canh}
     return any(nguon in lay_duoc for nguon in cau["nguon_dung"])
 
-
 def cham_citation(cau: dict, tra_loi: str) -> bool | None:
     """Chỉ số 2 — câu trả lời có nhắc đúng file + Điều cần trích không?"""
     if cau["phai_tu_choi"]:
         return None
-    return any(
-        nguon.split(" · ")[0] in tra_loi and nguon.split(" · ")[1] in tra_loi
-        for nguon in cau["nguon_dung"]
-    )
+    return any(nguon in tra_loi for nguon in cau["nguon_dung"])
+
 
 
 def cham_noi_dung(cau: dict, tra_loi: str) -> bool | None:
@@ -58,6 +55,8 @@ def cham_noi_dung(cau: dict, tra_loi: str) -> bool | None:
     if cau["phai_tu_choi"]:
         return None
     thap = tra_loi.lower()
+    if CAU_TU_CHOI in thap:      # từ chối = KHÔNG trả lời được, không thể tính đúng
+        return False
     return all(tu.lower() in thap for tu in cau["tu_khoa_bat_buoc"])
 
 

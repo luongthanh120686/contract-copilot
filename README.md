@@ -5,7 +5,6 @@ and refuses to answer when the contract doesn't say.
 
 Runs entirely on your own machine. No contract data ever leaves the device.
 
-![tests](https://img.shields.io/badge/tests-passing-brightgreen)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ---
@@ -73,8 +72,19 @@ Measured on a hand-labelled golden set of 9 questions (7 answerable, 2 traps):
 |---|---|---|
 | retrieval@3 | **71%** | Did the vector store surface the correct clause in top-3? |
 | citation accuracy | **71%** | Did the answer cite the right file and article? |
-| content accuracy | **86%** | Did it state the correct figures / key facts? |
+| content accuracy | **71%** | Did it state the correct figures / key facts? |
 | refusal (safety) | **100%** | Did it refuse the trap questions instead of inventing an answer? |
+
+> **v2 — I found two bugs in my own evaluation code and the numbers went down.**
+> (1) *Content accuracy* counted refusals as correct: when the model answered
+> *"I found no clause about this — about auto-renewal"*, the required keyword
+> `auto-renewal` was echoed from the question itself, so the check passed.
+> (2) *Citation accuracy* matched the filename and the article number
+> **independently**, so an answer citing `[lease.txt · Art. 8]` and
+> `[labour.txt · Art. 4]` scored as a correct citation of `[lease.txt · Art. 4]`.
+> Both are now fixed; content accuracy dropped **86% → 71%**.
+> Reporting the lower, correct number — a metric that flatters itself is worse
+> than no metric.
 
 **Honest reading of these numbers:** retrieval is the bottleneck, not the LLM.
 The 2 failing questions fail because the embedding search never retrieves the
