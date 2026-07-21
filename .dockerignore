@@ -1,0 +1,11 @@
+# Những thứ KHÔNG copy vào image — giữ image nhẹ và không lộ dữ liệu
+.git/
+.venv/
+__pycache__/
+*.pyc
+chroma_db/          # kho vector tự sinh lại khi chạy, không cần đóng gói
+data/nhat_ky.jsonl  # nhật ký người dùng — KHÔNG được đóng vào image
+data/*.db
+.env                # bí mật, tuyệt đối không
+.DS_Store
+*.md
